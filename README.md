@@ -1,3 +1,2 @@
 # timothywcrane.github.io
-My Personal Project Portfolio Repository
-found on the web at - https://timothywcrane.github.io
+11-29-2020 Added RTFM initial commit.
